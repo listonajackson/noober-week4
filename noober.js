@@ -61,4 +61,6 @@
     </div>
     `)
 }
+
+//test stage committ 
 window.addEventListener('DOMContentLoaded', pageLoaded)
